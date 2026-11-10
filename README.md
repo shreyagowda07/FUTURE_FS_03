@@ -1,10 +1,10 @@
+﻿
+
+\# ONEBITE â€“ Restaurant Website
 
 
-\# ONEBITE – Restaurant Website
 
-
-
-A modern, responsive restaurant website concept created as part of \*\*Future Interns Full Stack Web Development Internship – Task 3\*\*.
+A modern, responsive restaurant website concept created as part of \*\*Future Interns Full Stack Web Development Internship â€“ Task 3\*\*.
 
 
 
@@ -62,17 +62,17 @@ The website includes food categories, an image gallery, an introduction section 
 
 FUTURE\_FS\_03/
 
-│
+â”‚
 
-├── index.html
+â”œâ”€â”€ index.html
 
-├── style.css
+â”œâ”€â”€ style.css
 
-├── script.js
+â”œâ”€â”€ script.js
 
-├── README.md
+â”œâ”€â”€ README.md
 
-└── assets/
+â””â”€â”€ assets/
 
 ```
 
@@ -82,7 +82,7 @@ FUTURE\_FS\_03/
 
 
 
-Website demo: Open `index.html` in a web browser.
+Live Website: https://shreyagowda07.github.io/FUTURE_FS_03/
 
 
 
@@ -110,7 +110,8 @@ This is an independent demonstration project. Menu categories and business infor
 
 
 
-Future Interns – Full Stack Web Development Internship
+Future Interns â€“ Full Stack Web Development Internship
+
 
 
 
